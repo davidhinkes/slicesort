@@ -1,4 +1,4 @@
-// Package slicesort: utilities for sorting slices.
+// Package slicesort contains utilities for easily sorting slices.
 package slicesort
 
 import (
