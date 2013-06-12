@@ -1,0 +1,11 @@
+{
+  "Version": "0.1.0",
+  "Vendor": "davidhinkes",
+  "Authors": [
+    {
+      "FullName": "David Hinkes",
+      "Email": "david.hinkes@gmail.com"
+    }
+  ],
+	"ExtraFiles": ["LICENSE"]
+}
